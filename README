@@ -6,5 +6,13 @@ Username: root
 Password: root
 Running the SQL Script:
 
+Client : Client
+Pot : Cagnotte
+Trader : Commerçant
+
 Open your MySQL database management tool (e.g., MySQL Workbench).
-Execute the SQL script provided below to create the database schema and populate it with initial data.
+Execute the SQL script provided in resources directory to create the database schema and populate it with initial data.
+
+DTO logic is not completely implemented since my entities don't have much attributes and that im not supposed to print them somewhere.
+
+We could create an abstract class Person since we have Client and Trader for our API.

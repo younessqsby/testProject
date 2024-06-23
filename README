@@ -1,0 +1,10 @@
+Setting up the Database
+Database Configuration:
+
+Database: MySQL
+Username: root
+Password: root
+Running the SQL Script:
+
+Open your MySQL database management tool (e.g., MySQL Workbench).
+Execute the SQL script provided below to create the database schema and populate it with initial data.
